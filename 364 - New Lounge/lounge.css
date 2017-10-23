@@ -1,0 +1,14 @@
+body{
+	font-size: small;
+	font-family: Verdana, helvetica, Arial, sans-serif;
+	line-height:1.6em;
+}
+h1, h2{
+	color:#0072e7;
+}
+h1{
+	font-size: 150%;
+}
+h2{
+	font-size:130%;
+}s
